@@ -21,3 +21,30 @@ div {
   margin-top:250px;
   margin-left:15px;
 }
+.carré4 {
+    background-color:#FF0000;
+    width:50px;
+    height:50px;
+}
+.carré5 {
+    background-color:#FF9DBD;
+    width:50px;
+    height:50px;
+    opacity: 0.5;
+}
+.carré6 {
+    background-color:#FF0066;
+    width:50px;
+    height:50px;
+}
+.carré7 {
+    background-color:black;
+    width:50px;
+    height:50px;
+}
+.carré8 {
+    background-color:#33CCFF;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+}
