@@ -1,0 +1,23 @@
+.carré1 {
+    background-color:#47D147;
+    width:300px;
+    height:300px;
+    display:inline-block;
+}
+.carré2 {
+    background-color:#FFFF4D;
+    width:300px;
+    height:300px;
+    opacity: 0.5;
+    display:inline-block;
+}
+.carré3 {
+    background-color:#FFFF00;
+    width:300px;
+    height:300px;
+    display:inline-block;
+}
+div {
+  margin-top:250px;
+  margin-left:15px;
+}
